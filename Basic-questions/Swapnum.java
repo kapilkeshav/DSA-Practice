@@ -1,6 +1,6 @@
 //Swapping 2 int numbers using the xor operation
 import java.util.Scanner;
-public class Main{
+public class Swapnum{
     static void swap(int a, int b){
         a = a^b;
         b = a^b;
