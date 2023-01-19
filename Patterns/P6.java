@@ -16,7 +16,7 @@ Pattern-6
        *
     *******
  */
-public class Pattern{
+public class P6{
     public static void main(String[] args) {
         int n = 8;
         for(int i = 1;i<=n;i++){
