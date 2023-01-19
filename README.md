@@ -1,8 +1,10 @@
 # Java-Practice
 A repository to hold my progress of learning Java
-I am learning Java using W3 Schools. Apart from their exercizes, I also practised Java on hackerrank. Right now I'm solving this gfg page.
+I am learning Java using W3 Schools. Apart from their exercizes, I also practised Java on hackerrank.
 
-**gfg page: https://www.geeksforgeeks.org/java-programming-examples/**
+# Repositories
+1) **Basic Questions** - Includes all the basic problems one could think of while learning a new programming language.
+2) **Patterns** - Includes 9 basic star pattern questions.
 
 # Aim
 1) The main reason I'm learning Java is to understand and deepen my understanding of Object-oriented programming.
